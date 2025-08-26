@@ -1,28 +1,20 @@
 {
-    "name":"BekoShop VRChat Package List",
+    "name":"Bekosan's VRChat Packages List",
     "id":"ooo.beko.vpm-list",
-    "url":"https://bekosantux.github.io/VPM-List/index.json",
+    "url":"https://bekosantux.github.io/vpm-repos/index.json",
     "author":{
         "email":"bekosan.mail@gmail.com",
         "name":"Bekosan",
         "url":"https://github.com/Bekosantux"
     },
-    "description":"List of BekoShop's VRChat packages",
+    "description":"List of Bekosan's VRChat packages",
     "infoLink":{
-        "url":"https://github.com/Bekosantux/VCC-List",
+        "url":"https://github.com/Bekosantux/vpm-repos",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "vrchat-community/clientsim"
+        "Bekosantux/vrc-heart-rate"
     ],
-    "packages":[
-        {
-            "name":"com.vrchat.udonsharp",
-            "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
-            ]
-        }
-    ]
+    "packages":[]
 }
