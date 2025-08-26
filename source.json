@@ -14,8 +14,7 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "Bekosantux/vrc-heart-rate",
-        "kxn4t/kanameliser-editor-plus"
+        "Bekosantux/vrc-heart-rate"
     ],
     "packages":[]
 }
