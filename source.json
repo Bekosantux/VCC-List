@@ -1,15 +1,15 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"BekoShop VRChat Package List",
+    "id":"ooo.beko.vpm-list",
+    "url":"https://bekosantux.github.io/VPM-List/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"bekosan.mail@gmail.com",
+        "name":"Bekosan",
+        "url":"https://github.com/Bekosantux"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"List of BekoShop's VRChat packages",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://github.com/Bekosantux/VCC-List",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
